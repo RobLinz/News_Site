@@ -1,11 +1,13 @@
-#Details
+# Details #
+
 -Created by Robin, September 2017
+  
   -CSE 330: module 3
 
-#Link to page
+# Link to page #
 http://ec2-18-221-53-132.us-east-2.compute.amazonaws.com/~roboRobi/homePage.php
 
-#Creddit User Guidlines
+# Creddit User Guidlines #
 -If you choose to add content, keep it kind and pg please. What if the kids want to code too?
 
 -Create your own username and password
@@ -16,5 +18,6 @@ http://ec2-18-221-53-132.us-east-2.compute.amazonaws.com/~roboRobi/homePage.php
 
 -Any suggestions, questions, comments, or concerns just shoot me a message! 
 
-#Description: 
+# Description: #
+
 A news website called Creddit, similar in style to Reddit. Originally made for a course but will be updated over time so I can practice implementing new user features. 
