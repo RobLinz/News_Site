@@ -1,0 +1,39 @@
+
+ h1{color: rgb(100,100,300); text-align: center; background-color: rgb(250,200,100);}
+ body{ background-color: rgb(220, 247, 244);}
+ h4.intro1{text-align: center;}
+ h4.intro2{text-align: center;}
+ h4.loggedIn{color: purple;}
+ h3.sign-in{color: purple;}
+ h3.sect{color: purple;}
+ h2.ourStory{color: purple;}
+ p.description{vertical-align: top;}
+ textarea { vertical-align: top; }
+ /*learned to style as button https://stackoverflow.com/questions/12348643/css-style-which-show-a-as-button */ 
+ a.button{
+        -webkit-appearance: button; /* Safari and Chrome */
+        -moz-appearance: button; /* Firefox */
+        -ms-appearance: button; /* Internet Explorer */
+        cursor: default;
+    }
+ 
+ body.newCredit_user{ background-color: rgb(220, 247, 244);}
+ 
+ /*I learned how to use floats and borrowed from the layout from https://www.codementor.io/codementorteam/4-different-html-css-layout-techniques-to-create-a-site-85i9t1x34*/
+ #top {
+    height: 150px;
+    margin: 5px;
+ }
+ #sidebar {
+    width: 250px;
+    /*border: 1px solid black;*/ 
+    margin: 5px;
+    float: left; 
+ }                 
+ #news {
+    width: 1100px;
+    /*border: 1px solid blue;*/
+    margin: 5px;
+    float: left; 
+ }
+ 
