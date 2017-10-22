@@ -18,4 +18,4 @@ http://ec2-18-221-53-132.us-east-2.compute.amazonaws.com/~roboRobi/homePage.php
 
 # Description: #
 
-A news website called Creddit, similar in style to Reddit. Originally made for a course but will be updated over time so I can practice implementing new user features. 
+A news website called Creddit, similar in style to Reddit. Add a user! Share your comments! Add new stories! Welcome to our Creddit Community.
