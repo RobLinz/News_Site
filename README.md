@@ -1,8 +1,6 @@
 # Details #
 
 -Created by Robin, September 2017
-  
-  -CSE 330: module 3
 
 # Link to page #
 http://ec2-18-221-53-132.us-east-2.compute.amazonaws.com/~roboRobi/homePage.php
